@@ -55,7 +55,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboard
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN =  "8902856576:AAE_-Ak0zFbWtuHsyI9d8sPhhYkdKjJtXRU"
+BOT_TOKEN =  "8627896343:AAFZa5RQgM2PBzT4h5R4iGAsg7PAONxGkxI"
 
 OWNER_ID = 8351204457
 OWNER_ID_2 = 6857114917
