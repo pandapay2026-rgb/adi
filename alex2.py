@@ -58,7 +58,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 BOT_TOKEN =  "8627896343:AAFZa5RQgM2PBzT4h5R4iGAsg7PAONxGkxI"
 
 OWNER_ID = 8351204457
-OWNER_ID_2 = 6857114917
+OWNER_ID_2 = 7668097136
 OWNER_IDS = (OWNER_ID, OWNER_ID_2)
 
 def is_owner(user_id):
@@ -75,7 +75,7 @@ user_data_store = {}
 user_tasks = {}
 
 FIXED_DELAY = 3
-BALANCE_BOUNDARY = 5000
+BALANCE_BOUNDARY = 20000
 
 # PDF acceptance: agar 30%+ rows valid hain to PDF accept
 MIN_VALID_RATIO = 0.30
