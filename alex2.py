@@ -58,7 +58,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 BOT_TOKEN =  "8902856576:AAE_-Ak0zFbWtuHsyI9d8sPhhYkdKjJtXRU"
 
 OWNER_ID = 8351204457
-OWNER_ID_2 = 7668097136
+OWNER_ID_2 = 1300363284
 OWNER_IDS = (OWNER_ID, OWNER_ID_2)
 
 def is_owner(user_id):
